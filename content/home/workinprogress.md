@@ -9,17 +9,17 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Work in progress
+title: Work in Progress
 subtitle: ''
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - workinprogress
+      - publication
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '0'
     author: ''
     exclude_featured: false
     exclude_future: false

@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Emilie Berkhout # Website name
-baseURL: 'https://emilieberkhout.com/' # Website URL
+baseURL: 'https://emilieberkhout.github.io/' # Website URL
 
 ############################
 ## LANGUAGE

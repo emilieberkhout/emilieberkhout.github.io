@@ -22,7 +22,7 @@ publishDate: "2021-06-23T00:00:00Z"
 slides:
 summary: We use nationally representative data to create mathematics learning profiles for Indonesia in 2000 and 2014.
 tags: []
-title: Schooling progress, learning reversal. Indonesia's learning profiles between 2000 and 2014
+title: "Schooling progress, learning reversal: Indonesia's learning profiles between 2000 and 2014"
 url_code: ""
 url_dataset: ""
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S0738059321000894"

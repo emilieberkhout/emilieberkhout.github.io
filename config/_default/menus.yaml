@@ -10,7 +10,7 @@ main:
   - name: Research
     url: '#publications'
     weight: 20
-  - name: Blog
+  - name: Blog Posts
     url: '#blog'
     weight: 30
 

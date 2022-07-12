@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emilie Berkhout</title>
+    <link>https://emilieberkhout.com/</link>
+      <atom:link href="https://emilieberkhout.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emilie Berkhout</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://emilieberkhout.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Emilie Berkhout</title>
+      <link>https://emilieberkhout.com/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://emilieberkhout.com/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://emilieberkhout.com/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Do parents hold bad schools accountable with their feet? Evidence from a quality revealing intervention in Indonesia</title>
+      <link>https://emilieberkhout.com/publication/schoolchoice/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://emilieberkhout.com/publication/schoolchoice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical evidence for corruption&#39;s self-reinforcing nature from cheating prevention on exams</title>
+      <link>https://emilieberkhout.com/publication/corruption/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://emilieberkhout.com/publication/corruption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selecting Teachers in Indonesia: Predicting Teacher Performance using Pre-Employment Information</title>
+      <link>https://emilieberkhout.com/publication/selection/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://emilieberkhout.com/publication/selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who Benefits and Loses from Large Changes to Student Composition? Assessing Impacts of Lowering School Admissions Standards in Indonesia</title>
+      <link>https://emilieberkhout.com/publication/example1/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://emilieberkhout.com/publication/example1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schooling progress, learning reversal: Indonesia&#39;s learning profiles between 2000 and 2014</title>
+      <link>https://emilieberkhout.com/publication/example/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://emilieberkhout.com/publication/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Cheating to Learning? An Evaluation of Fraud Prevention on National Exams in Indonesia</title>
+      <link>https://emilieberkhout.com/publication/cheating/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://emilieberkhout.com/publication/cheating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Computers Helped Indonesia Move From a Cheating Culture to a Learning Culture</title>
+      <link>https://emilieberkhout.com/post/cheatingblog/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://emilieberkhout.com/post/cheatingblog/</guid>
+      <description>&lt;p&gt;In Indonesia, cheating on national exams was so widespread that &lt;a href=&#34;https://www.economist.com/asia/2011/07/07/more-cheating-or-else&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a mother who exposed that her child&amp;rsquo;s teacher promoted cheating was accused by other parents to be a ‘disgrace to the school’&lt;/a&gt;. In many schools, &lt;a href=&#34;https://www.thejakartapost.com/news/2015/04/16/new-exam-system-fails-prevent-cheating-leaks.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;teachers and students shared answer sheets&lt;/a&gt; and helped each other during the exam. When cheating is so common, it is likely that teachers and students collude to cheat. In that case, there is little chance that they will work to mitigate it, so it becomes hard to fight. Since 2015, the Indonesian Government has aimed to prevent cheating practices with the implementation of computer-based testing (CBT) on Grade 9 and 12 national exams (the end of junior and secondary school, respectively). The CBT program draws exam items directly from a server, such that each student has a unique test version. This way, answer sheets are useless, and it is difficult for teachers and students to share answers during the exam.&lt;/p&gt;
+&lt;p&gt;In a &lt;a href=&#34;https://riseprogramme.org/publications/cheating-learning-evaluation-fraud-prevention-national-exams-indonesia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;recently published working paper&lt;/a&gt;, Menno Pradhan, Rahmawati, Daniel Suryadarma, Arya Swarnata and I evaluate the introduction of CBT. We find that CBT not only leads to substantially lower grades in junior secondary schools that were known to cheat on national exams, but it also reduces cheating among schools that still administer the exam on paper. Moreover, after CBT is implemented, exam scores increase again as cheating is no longer possible. This suggests that learning outcomes improve when CBT is used and that students learn less when they have the opportunity to cheat.&lt;/p&gt;
+&lt;h2 id=&#34;cheating-on-the-grade-9-leaving-exam-was-widespread&#34;&gt;Cheating on the Grade 9 leaving exam was widespread&lt;/h2&gt;
+&lt;p&gt;The magnitude of the cheating problem in Indonesia before the introduction of CBT becomes clear when we look at suspicious patterns on answer sheets. According to a so-called ‘integrity index’, which is generated by the Government of Indonesia based on &lt;a href=&#34;https://academic.oup.com/qje/article-abstract/118/3/843/1943009?redirectedFrom=fulltext&amp;amp;login=false&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previously developed algorithms that detect those patterns&lt;/a&gt;, there is substantial evidence of cheating on the national exam in 2015 for about a third of all junior secondary schools (Grades 7-9). These ‘low integrity schools’ are locally concentrated, as shown on the map below. In red districts (118 out of 514 districts), between 75 and 100 percent of the junior secondary schools, with 532,946 students or 13 percent of all exam takers, have suspicious answer patterns on their 2015 exam. This large number of cheating students and teachers point to the existence of a ‘cheating culture’ in these regions.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/LowIntdistrict.png&#34; alt=&#34;Cheating Map&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;school-average-exam-scores-dropped-substantially-after-the-implementation-of-computer-based-testing&#34;&gt;School average exam scores dropped substantially after the implementation of computer-based testing&lt;/h2&gt;
+&lt;p&gt;Each year since 2015, schools have applied to participate in CBT once they have the required resources (i.e., computers and stable electricity). By 2019, 39,379 out of 50,124 junior secondary schools implemented CBT. Using administrative data of all junior secondary schools between 2015 and 2019, we find a drop in average exam scores as soon as schools switched to computers.&lt;/p&gt;
+&lt;p&gt;You might wonder if a decrease in exam scores is driven by students who are unfamiliar with computers. As shown in the figure below, we find that when schools switch from exams on paper to CBT, their average exam scores drop only if they had suspicious answer patterns (i.e., low integrity) before the intervention. The drop in the average exam scores of low integrity schools is almost 10 points on a scale from 0 to 100. We also find only a small difference in the effect between schools that already had a computer lab before the intervention (41 percent of the schools) and schools that did not. These findings provide supporting evidence for our assumption that the drop in exam scores is due to reducing the possibility of cheating, not due to a lack of computer skills.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/didHetAll_both.png&#34; alt=&#34;Result&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;when-cheating-is-no-longer-possible-learning-outcomes-improve&#34;&gt;When cheating is no longer possible, learning outcomes improve&lt;/h2&gt;
+&lt;p&gt;It is still important for students to achieve high grades because the result determines the quality of their subsequent education. With higher grades, they can get access to higher ranked senior secondary schools. Also, local governments and schools gain prestige from high grades on the national exam, so they continue to pressure teachers to perform well. Accordingly, we find that exam scores improve after the first year of CBT implementation. In the third year of CBT implementation, the effect for schools with computer labs in 2015 was less than half the size of the effect in the first year of CBT implementation (-3.9 points compared to -8.9 points, respectively). Since cheating is virtually impossible, this improvement can only be achieved through students and teachers exerting more effort into learning outcomes.&lt;/p&gt;
+&lt;h2 id=&#34;when-more-schools-in-a-district-switch-to-computers-it-also-becomes-more-difficult-for-other-schools-to-cheat&#34;&gt;When more schools in a district switch to computers, it also becomes more difficult for other schools to cheat&lt;/h2&gt;
+&lt;p&gt;Schools within the same district switched to computers in different years. The computers not only changed the exam scores of the CBT schools; the exam scores of schools that continued their exams on paper also decreased as more schools surrounding them switched to computers. As shown in the table below, when all schools surrounding a school that takes the paper-based exam switched to computers, the average paper-based exam score of this school decreased by 9 points, and the integrity index increased by 21 points in a district with a cheating culture (dark orange and red on the map). In districts where less than 50 percent of schools had low integrity in 2015 (light orange on the map), there was no significant change in the average score or integrity index on paper-based exams as the percentage of CBT schools in the district increased.&lt;/p&gt;
+&lt;p&gt;Our results imply a norm change with respect to cheating. We have a few explanations for why cheating on paper-based exams becomes more difficult when surrounding schools cannot cheat anymore. It might be harder for them to obtain answer sheets. Teachers and students that take the computer-based exam have no reason to try to obtain the answer sheets and, therefore, they cannot forward them either. In addition, teachers from CBT schools might be stricter when proctoring the exams of schools that still take the paper-based exam, to which they are assigned by the district government. (The national exam proctoring procedure is that teachers never proctor students from the school in which they teach.) If their students cannot cheat, to ensure a fair competition, they might also prevent cheating in schools that conduct paper-based exams.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/tablecheatblog.png&#34; alt=&#34;spillover&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+Note: Table includes schools that still took the exam on paper in 2019: 4,861 schools in columns 1 and 2 and 5,841 schools in columns 3 and 4. Standard errors between parentheses and corrected for clustering at the district level. Regression includes year and school fixed effects, such that coefficients present changes within schools. *** p-value &amp;lt; 0.01&lt;/p&gt;
+&lt;p&gt;Taking our findings together, the transition from paper-based exams to computer-based exams has helped Indonesia to move from a cheating culture towards a learning culture. Cheating on national exams in Indonesia was concentrated in certain regions, pointing to the existence of a local cheating culture. In many districts, there was sufficient evidence for substantial cheating on the paper-based exams for more than 75 percent of the schools. We find that the computers induce a norm change with respect to cheating practices in these regions, while learning outcomes improve over time when cheating is no longer possible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why Low-Performing and Poor Students in Yogyakarta Do Not Go to High-Quality Junior Secondary Schools, Even if They Could</title>
+      <link>https://emilieberkhout.com/post/zoningblog2/</link>
+      <pubDate>Mon, 07 Sep 2020 09:00:00 +0000</pubDate>
+      <guid>https://emilieberkhout.com/post/zoningblog2/</guid>
+      <description>&lt;p&gt;In our &lt;a href=&#34;https://riseprogramme.org/blog/indonesia-equity-access-quality-education&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous blog&lt;/a&gt;, we discussed recent policy changes to shift junior secondary school admissions to those based on house-to-school proximity instead of the Grade 6 exam score. We showed that when Yogyakarta implemented this new admission policy, colloquially referred to as the ‘school zoning policy’, the student composition changed significantly. Many students with lower test scores and poor students who had not been previously admitted to public schools were now attending them, substantially improving equity in access to public schools. For students that scored in the bottom 40 percent of the Grade 6 exam score distribution, access to public schools more than doubled, specifically, 29 percent was enrolled in public school before the zoning policy while 66 percent was enrolled after implementation of the zoning policy. This blog shows that despite a higher enrolment of low performing students in public junior secondary schools, many students did not attend the best quality public school they could attend. We find that this is not due to the failure of the zoning policy per se, but rather due to low performing students self sorting into lower quality public schools. We further explore the underlying reasons for why this may be the case.&lt;/p&gt;
+&lt;p&gt;Recall from the previous blog that students did not have to apply to the closest school to their house, even if they had the highest chance of being admitted to that school. While 76 percent of the students that applied through the selection round based on house-to-school distance were enrolled in their top school preference (93 percent in top three school preferences), only 23 percent were enrolled in their closest school (66 percent in one of the three closest schools).&lt;/p&gt;
+&lt;p&gt;To identify which schools the students would have gotten into had they applied to their closest school as their first school preference, we simulate the student allocation following the City’s guidance on admission according to proximity. We allocate students who are enrolled in the public schools through the selection round based on house-to-school proximity by assuming that their school preferences follow the distance from their house to each school. Our simulation allocates 81 percent of the students to their closest school (91 percent to one of their three closest schools). All students apply to their closest school in our simulation, but students who live even closer might have already filled the seats of that schools. Therefore, not every student is allocated to their closest school.&lt;/p&gt;
+&lt;p&gt;To compare school quality between the simulated enrolment and where students actually enrolled, we use the school rank in terms of average Grade 9 national exit examination scores before the zoning policy as proxy for school quality. We rank the 16 public junior secondary schools in descending order, such that the highest achieving public school has a rank of 1, and the least achieving public school is ranked 16.&lt;/p&gt;
+&lt;h2 id=&#34;lower-performing-students-were-enrolled-in-lower-quality-public-schools-than-the-public-schools-they-would-be-able-to-attend-had-they-applied-to-the-closest-schools-to-their-houses&#34;&gt;Lower-performing students were enrolled in lower-quality public schools than the public schools they would be able to attend, had they applied to the closest schools to their houses&lt;/h2&gt;
+&lt;p&gt;The figure below compares the average school rank of the simulated closest school to the school in which the students were actually enrolled, by their standardised Grade 6 exam score (such that the mean is 0 and the standard deviation is 1). The dashed horizontal line indicates that the closest schools were of similar quality across different types of students. This illustrates the diversity of students living close to the public schools and confirms that the zoning policy has the potential to achieve an equitable student allocation. However, the black curve shows that, in reality, students with a below-average Grade 6 exam score were enrolled in schools with a lower rank than their closest school; about one rank lower on average. Conversely, students with an above-average Grade 6 exam score were enrolled in schools with a higher rank than their closest school. For instance, students that scored two standard deviations above the mean Grade 6 exam score were enrolled in schools that ranked four places higher than their closest school, on average.&lt;/p&gt;
+&lt;p&gt;Throughout this blog, we focus on differences by student performance on the Grade 6 exam score, but the results are similar if we use a standardised asset index as a proxy for wealth. Hence, relatively poor students were also enrolled in schools with a lower rank than their closest school.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/SimResultStud_Perf.png&#34; alt=&#34;Simulated Preferences&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;At the school level, the zoning system resulted in more clustering in terms of test scores than we would expect if students were allocated by proximity. The bar chart below shows the difference in the standardized Grade 6 exam score in each public school between the actual enrolled students and the simulated students, and the 95 percent confidence interval. The student composition would have been similar if the students who live closest to the schools applied to and enrolled in the respective schools. However, students enrolled in the top two schools had a 0.8 and 0.9 standard deviation higher average Grade 6 exam score than the closest students. At the same time, students enrolled in schools with lower ranks generally had a lower average Grade 6 exam score than we would expect. Hence, despite the potential of the policy to achieve an equitable student allocation, high performing students still sorted into the best public schools, whereas the low performing students sorted into public schools with a lower rank.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/differencebyschool.png&#34; alt=&#34;Difference by School&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+Note: The bars do not add up to zero, because the seat capacity of the schools varies. The schools that rank first, second and ninth have 654 seats in total and the schools that rank twelfth, thirteenth, fourteenth and fifteenth have 663 seats. The mean difference weighted by the number of seats is zero.&lt;/p&gt;
+&lt;h2 id=&#34;low-performing-students-were-enrolled-in-lower-ranked-public-schools-than-they-could-enroll-in-because-they-did-not-apply-to-the-top-public-schools&#34;&gt;Low performing students were enrolled in lower-ranked public schools than they could enroll in because they did not apply to the top public schools&lt;/h2&gt;
+&lt;p&gt;The differences in the student composition between actual enrolment and simulated enrolment arose from student preferences rather than school’s rejection of low performing students. To illustrate this, the next figure shows the fraction of students that applied for the selection round based on house-to-school proximity that had an average or higher Grade 6 exam score by their first school preference. Of the students that listed one of the top two schools as their first preference in their application, 91 percent had an above-average Grade 6 exam score. Meanwhile, the students that applied to the other public schools were more diverse. If we look at it the other way around, only three percent of all the students with a below average Grade 6 exam score listed the top two schools as their first preference (not shown in the figure).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/StudPrefProf_Perf.png&#34; alt=&#34;Preference by UASDA&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;We hypothesise that students with different performance on the Grade 6 exam had different school preferences because students sorted into schools. Students seemed to select schools with students that were academically and economically similar to them. Our qualitative work found that parents of high-performing children believed that the school culture and who their children associate with will shape their children’s academic achievement.&lt;/p&gt;
+&lt;p&gt;It is unlikely that the difference in school preferences came from misinformed parents. The school ranks are well known in Yogyakarta because of its reputation in education. The top two schools in Yogyakarta even ranked among the top five schools in the country in terms of Grade 9 leaving exam scores. Moreover, our qualitative work revealed that low performing students had good reasons not to apply to these schools. The top schools implement an ambitious curriculum and parents mentioned that they were afraid that their children may not be able to keep up with the learning pace. While one of the schools refused to adjust its curriculum for low performing students, the other tracked the low performing students and retained them for an additional year. Moreover, parents mentioned that these schools often request money from them to finance school activities, even though public schools are supposed to be free.&lt;/p&gt;
+&lt;p&gt;While our &lt;a href=&#34;https://riseprogramme.org/blog/indonesia-equity-access-quality-education&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;first blog&lt;/a&gt; shows that the new admission policy is equity enhancing in terms of improved access to public schools for low performing and poor students, this blog reveals that equity in access has not yet been reached for the top-ranking public junior secondary schools in Yogyakarta. However, there is room for debate about what the optimal outcome for poor and low performing students would be, as our qualitative work found that these students had good reasons for choosing less highly ranked public schools. Moreover, &lt;a href=&#34;https://www.cgdev.org/blog/unnatural-selection-under-performance-elite-public-secondary-schools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the evidence on the effect of elite public schools on learning in other countries is mixed&lt;/a&gt;. It is a question that we aim to answer with the continuation of our research in Yogyakarta for the RISE Programme.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How Indonesia Attempts to Address Inequity in Access to Quality Education: The Case of Junior Secondary Schools in Yogyakarta</title>
+      <link>https://emilieberkhout.com/post/zoningblog1/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://emilieberkhout.com/post/zoningblog1/</guid>
+      <description>&lt;p&gt;Basic education in Indonesia is compulsory and includes six years of primary school (Grade 1-6) and 3 years of junior secondary school (Grade 7-9). In the past decades, Indonesia has achieved huge progress in improving access to basic education. As of 2019, &lt;a href=&#34;https://www.bps.go.id/linkTableDinamis/view/id/1052&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;net enrolment rates were 98 percent at the primary level and 79 percent at the junior secondary level&lt;/a&gt;. This achievement can be largely attributed to &lt;a href=&#34;https://www.lowyinstitute.org/publications/beyond-access-making-indonesia-s-education-system-work&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;government efforts to provide free education in public schools&lt;/a&gt;. Nevertheless, Indonesia still faces the challenge of improving equity in access to quality education, specifically at the junior secondary school level.&lt;/p&gt;
+&lt;h2 id=&#34;the-school-admission-system-results-in-inequitable-access-to-free-quality-public-junior-secondary-schools&#34;&gt;The school admission system results in inequitable access to free quality public junior secondary schools&lt;/h2&gt;
+&lt;p&gt;In Indonesia, public junior secondary schools generally perform better than private schools. Due to &lt;a href=&#34;https://www.rand.org/pubs/monographs/MG137.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;better resources, more well-trained teachers&lt;/a&gt;, and the &lt;a href=&#34;https://documents.worldbank.org/en/publication/documents-reports/documentdetail/558971468752104023/indonesia-education-in-indonesia-from-crisis-to-recovery&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;selection of better performing students&lt;/a&gt;, public junior secondary school graduates &lt;a href=&#34;http://jhr.uwpress.org/content/XLI/3/529.full.pdf&amp;#43;html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;score higher on the Grade 9 national exam&lt;/a&gt; than their privately schooled peers. However, the free quality public junior secondary schools only serve &lt;a href=&#34;https://referensi.data.kemdikbud.go.id/pd_index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;about 70 percent of students nationally&lt;/a&gt;. In the past, admission to public junior secondary schools was based on student performance on the Grade 6 exam, set by the province and administered in all public and private primary schools. Students who were not accepted to public school had to attend private school (although private school fees were partially subsidised by the government in several regions). Under this system,  students with a high Grade 6 exam score, referred to as high-performing students in this blog, were admitted to the public schools. These students were more likely to come from wealthy families. Meanwhile, the students with a low Grade 6 exam score (or low-performing students), many of whom came from poor families, generally had to pay to attend low-quality private schools. While high-quality private schools do exist, their fees are high making them unaffordable for poor students. As a result, the previous admission system led to inequity in access to quality education, putting poor and low-performing students at a particular disadvantage.&lt;/p&gt;
+&lt;h2 id=&#34;changing-the-school-admission-system-to-address-the-inequity-issue&#34;&gt;Changing the school admission system to address the inequity issue&lt;/h2&gt;
+&lt;p&gt;Recognising that the admission system was denying the poor and low-performing students access to high-quality and free education, the Indonesian Ministry of Education and Culture changed the admission system in 2017 for public junior secondary schools from one that was entirely based on the Grade 6 examination scores, to one that prioritises the student’s house-to-school distance. This new admission policy is colloquially referred to as the ‘school zoning policy’. The policy allows the students that live near public schools to enroll in them. The central government expected this new system to promote equal access to quality education. While the central government released the school zoning policy in 2017, Indonesia’s decentralisation system gives local governments broad latitude to decide on how to implement the policy in their region.&lt;/p&gt;
+&lt;h2 id=&#34;moving-to-a-more-equitable-admission-system-a-case-study-of-yogyakarta&#34;&gt;Moving to a more equitable admission system: a case study of Yogyakarta&lt;/h2&gt;
+&lt;p&gt;We examine the effect of this policy change on the student composition in junior secondary schools in one city – Yogyakarta – that has some of the highest-performing schools in the country. The city has 16 public junior secondary schools that cover about 60 percent of all junior secondary school seats in the city. Yogyakarta implemented the school zoning policy for public junior secondary school admissions in 2018.&lt;/p&gt;
+&lt;p&gt;Before the school zoning policy was enacted, all seats in the public schools were allocated based on Grade 6 exam scores. For 75 percent of those seats, there was no consideration of students’ economic background. This policy extended to students in Yogyakarta’s suburbs, such that high-performing students from outside of Yogyakarta City could attend public junior secondary schools in the city. The remaining 25 percent of seats were reserved for students from poor families, but seats were still allocated according to test scores such that the highest-scoring students among those receiving social benefits were admitted (see table below).&lt;/p&gt;
+&lt;p&gt;When the school zoning policy was implemented in 2018, 75 percent of the seats were reserved for students who lived closest to the school. Meanwhile, only 20 percent of the seats were designated for students to be admitted based on their Grade 6 exam scores. The remaining 5 percent was for transferred students that moved to Yogyakarta due to natural disasters in their place of origin or their parent’s job assignment to Yogyakarta.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/zoningtracks.png&#34; alt=&#34;Zoning Tracks&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Students applied for public junior secondary schools online. In 2018, students chose the admission selection criterion category that applied to them and listed the 16 public schools in the order of their preference. They could choose to list less than 16 public schools on their preference list. If they chose to list only three schools, for instance, they would only be considered for these three schools. The selection process aimed to allocate the students efficiently by using the &lt;a href=&#34;https://link.springer.com/article/10.1007/s00182-008-0117-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;deferred acceptance mechanism&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Students could apply through two stages: one where selection was based on Grade 6 exam scores and one based on the proximity of their house to the schools. In the first stage, the deferred acceptance mechanism ranked students according to their Grade 6 exam score and the students’ stated school preference. If a school was in high demand, the seats were filled with the highest-scoring students. At this point, the selected students did not have a confirmed seat yet. The students that were rejected from their first school preference were assigned to their second school preference. The mechanism ranked them together with the students that were selected based on their first school preference and filled the seats again with the highest-scoring students. This continued until all seats of the schools that students applied to were filled. Simultaneously, transferred students from outside of Yogyakarta were selected based on the local government’s discretion using information on the students’ transfer documents (not shown in the above figure).&lt;/p&gt;
+&lt;p&gt;The result of the first stage was published before the selection process of the second stage started, so students from Yogyakarta who were rejected in the first stage based on test scores could join the second stage of the selection process along with the students who applied for the second stage directly. Note that the rejected students from the first stage could change their school preference list in their application for the second stage. The system then used the same deferred acceptance mechanism as in the first stage to allocate students to a public school of their preference, but now ranking the students based on their house-to-school distance and thus selecting the closest students.&lt;/p&gt;
+&lt;p&gt;Note that students did not have to apply to the school that is closest to their house in the second stage, even though they had the highest chance of being admitted to that school. If they preferred other schools over their neighbourhood school, they could indicate that on their school preference list. However, leaving the neighbourhood public school off the list would increase the risk of having to apply to a private school.&lt;/p&gt;
+&lt;p&gt;In fact, many students did not prefer to go to their neighbourhood school. Of the students enrolled in public schools through the second stage of the admission selection process, 76 percent of the students enrolled in their first school preference but only 23 percent enrolled in the closest schools to their house. Transport time and cost in the city are low and thus had little effect on students’ and parents’ school preference. The students who are not enrolled in their closest school are still less than a kilometre away from their school, on average.&lt;/p&gt;
+&lt;h2 id=&#34;the-school-zoning-policy-gave-many-low-performing-and-poor-students-access-to-the-public-schools&#34;&gt;The school zoning policy gave many low-performing and poor students access to the public schools&lt;/h2&gt;
+&lt;p&gt;Yogyakarta is a city with little neighbourhood segregation, so students from different economic and academic backgrounds live near the public schools. As a rule, we expect that the zoning policy would diversify the student composition in public schools in terms of Grade 6 exam score and wealth. Prior to the zoning policy, the average Grade 6 exam score of students in public junior secondary schools was 1.16 standard deviation higher than the average score of students in private junior secondary schools. After the zoning policy was implemented, the difference in the average Grade 6 exam score between public and private schools was only 0.26 standard deviation.&lt;/p&gt;
+&lt;p&gt;The zoning policy also improved access for poor students to public schools. Before the policy, public school students had an average asset index of 0.09 standard deviations lower than students in the private schools. This is due to the fact that many wealthy students attended expensive high quality private schools in Yogyakarta. However, after the implementation of the zoning policy, the average asset index of the students in public schools was 0.36 standard deviations lower than that of the private schools, indicating that more poor students entered the public schools.&lt;/p&gt;
+&lt;p&gt;The following figure shows that junior secondary schools became much more equitable due to the zoning policy. Prior to the zoning policy, less than 30 percent of students in the public schools scored below the median Grade 6 exam score, while 80 percent of students in the private schools did. After the zoning policy, about 50 percent of students in the public schools scored below the median, while 60 percent of students in the private schools did. The cumulative distributions after the implementation of the zoning policy are almost aligned with the 45 degree diagonal, which represents a perfectly equal distribution. It shows that the students enrolled in public schools through the second stage were a representative sample of all the Grade 6 exam score takers.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/Cumulative_Percentiles.png&#34; alt=&#34;Cumulative Enrolment&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Access to public schools mainly improved for the 40 percent lowest scoring students on the Grade 6 exam, as shown by the next figure. Only 29 percent of students in the bottom 40 percent enrolled in public school before the zoning policy, while 66 percent enrolled after implementation of the zoning policy. This means that the probability of enrolling in a public school more than doubled for this group of students. For students in the lowest decile of the Grade 6 exam score, the probability of enrolling in a public school was as much as 8 times higher due to the zoning policy. It might be surprising that there were students with Grade 6 exam scores among the bottom deciles that enrolled in the public schools prior the zoning policy, despite the selection on exam scores. These students applied to the admission selection criteria specifically for poor families (as explained in the first table).&lt;/p&gt;
+&lt;p&gt;Note that the figure only includes students from Yogyakarta and that the fraction of these students that attended public schools increased by 6 percentage points after implementation of the zoning policy. These seats were allocated to students from outside Yogyakarta before, while they became available to students from Yogyakarta due to the zoning policy.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/FractionPublicUASDA.png&#34; alt=&#34;Enrolment by UASDA&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Despite the success of the zoning policy in improving access to public schools in general, &lt;a href=&#34;https://riseprogramme.org/blog/why-low-performing-poor-students-yogyakarta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our second blog&lt;/a&gt; reveals that the poor and low performing students still did not go to the best quality public schools that they could attend. The second blog further explores the reasons that underlie such phenomena.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://emilieberkhout.com/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://emilieberkhout.com/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://emilieberkhout.com/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://emilieberkhout.com/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://emilieberkhout.com/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://emilieberkhout.com/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://emilieberkhout.com/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://emilieberkhout.com/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://emilieberkhout.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://emilieberkhout.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
