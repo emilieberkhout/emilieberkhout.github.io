@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Emilie Berkhout</title>
-    <link>https://emilieberkhout.com/post/</link>
-      <atom:link href="https://emilieberkhout.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://emilieberkhout.github.io/post/</link>
+      <atom:link href="https://emilieberkhout.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://emilieberkhout.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://emilieberkhout.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://emilieberkhout.com/post/</link>
+      <link>https://emilieberkhout.github.io/post/</link>
     </image>
     
     <item>
       <title>How Computers Helped Indonesia Move From a Cheating Culture to a Learning Culture</title>
-      <link>https://emilieberkhout.com/post/cheatingblog/</link>
+      <link>https://emilieberkhout.github.io/post/cheatingblog/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://emilieberkhout.com/post/cheatingblog/</guid>
+      <guid>https://emilieberkhout.github.io/post/cheatingblog/</guid>
       <description>&lt;p&gt;In Indonesia, cheating on national exams was so widespread that &lt;a href=&#34;https://www.economist.com/asia/2011/07/07/more-cheating-or-else&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a mother who exposed that her child&amp;rsquo;s teacher promoted cheating was accused by other parents to be a ‘disgrace to the school’&lt;/a&gt;. In many schools, &lt;a href=&#34;https://www.thejakartapost.com/news/2015/04/16/new-exam-system-fails-prevent-cheating-leaks.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;teachers and students shared answer sheets&lt;/a&gt; and helped each other during the exam. When cheating is so common, it is likely that teachers and students collude to cheat. In that case, there is little chance that they will work to mitigate it, so it becomes hard to fight. Since 2015, the Indonesian Government has aimed to prevent cheating practices with the implementation of computer-based testing (CBT) on Grade 9 and 12 national exams (the end of junior and secondary school, respectively). The CBT program draws exam items directly from a server, such that each student has a unique test version. This way, answer sheets are useless, and it is difficult for teachers and students to share answers during the exam.&lt;/p&gt;
 &lt;p&gt;In a &lt;a href=&#34;https://riseprogramme.org/publications/cheating-learning-evaluation-fraud-prevention-national-exams-indonesia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;recently published working paper&lt;/a&gt;, Menno Pradhan, Rahmawati, Daniel Suryadarma, Arya Swarnata and I evaluate the introduction of CBT. We find that CBT not only leads to substantially lower grades in junior secondary schools that were known to cheat on national exams, but it also reduces cheating among schools that still administer the exam on paper. Moreover, after CBT is implemented, exam scores increase again as cheating is no longer possible. This suggests that learning outcomes improve when CBT is used and that students learn less when they have the opportunity to cheat.&lt;/p&gt;
 &lt;h2 id=&#34;cheating-on-the-grade-9-leaving-exam-was-widespread&#34;&gt;Cheating on the Grade 9 leaving exam was widespread&lt;/h2&gt;
@@ -39,7 +39,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/LowIntdistrict.png&#34; alt=&#34;Cheating Map&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.github.io/LowIntdistrict.png&#34; alt=&#34;Cheating Map&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;school-average-exam-scores-dropped-substantially-after-the-implementation-of-computer-based-testing&#34;&gt;School average exam scores dropped substantially after the implementation of computer-based testing&lt;/h2&gt;
@@ -63,7 +63,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/didHetAll_both.png&#34; alt=&#34;Result&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.github.io/didHetAll_both.png&#34; alt=&#34;Result&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;when-cheating-is-no-longer-possible-learning-outcomes-improve&#34;&gt;When cheating is no longer possible, learning outcomes improve&lt;/h2&gt;
@@ -89,7 +89,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/tablecheatblog.png&#34; alt=&#34;spillover&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.github.io/tablecheatblog.png&#34; alt=&#34;spillover&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Note: Table includes schools that still took the exam on paper in 2019: 4,861 schools in columns 1 and 2 and 5,841 schools in columns 3 and 4. Standard errors between parentheses and corrected for clustering at the district level. Regression includes year and school fixed effects, such that coefficients present changes within schools. *** p-value &amp;lt; 0.01&lt;/p&gt;
@@ -99,9 +99,9 @@ Note: Table includes schools that still took the exam on paper in 2019: 4,861 sc
     
     <item>
       <title>Why Low-Performing and Poor Students in Yogyakarta Do Not Go to High-Quality Junior Secondary Schools, Even if They Could</title>
-      <link>https://emilieberkhout.com/post/zoningblog2/</link>
+      <link>https://emilieberkhout.github.io/post/zoningblog2/</link>
       <pubDate>Mon, 07 Sep 2020 09:00:00 +0000</pubDate>
-      <guid>https://emilieberkhout.com/post/zoningblog2/</guid>
+      <guid>https://emilieberkhout.github.io/post/zoningblog2/</guid>
       <description>&lt;p&gt;In our &lt;a href=&#34;https://riseprogramme.org/blog/indonesia-equity-access-quality-education&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;previous blog&lt;/a&gt;, we discussed recent policy changes to shift junior secondary school admissions to those based on house-to-school proximity instead of the Grade 6 exam score. We showed that when Yogyakarta implemented this new admission policy, colloquially referred to as the ‘school zoning policy’, the student composition changed significantly. Many students with lower test scores and poor students who had not been previously admitted to public schools were now attending them, substantially improving equity in access to public schools. For students that scored in the bottom 40 percent of the Grade 6 exam score distribution, access to public schools more than doubled, specifically, 29 percent was enrolled in public school before the zoning policy while 66 percent was enrolled after implementation of the zoning policy. This blog shows that despite a higher enrolment of low performing students in public junior secondary schools, many students did not attend the best quality public school they could attend. We find that this is not due to the failure of the zoning policy per se, but rather due to low performing students self sorting into lower quality public schools. We further explore the underlying reasons for why this may be the case.&lt;/p&gt;
 &lt;p&gt;Recall from the previous blog that students did not have to apply to the closest school to their house, even if they had the highest chance of being admitted to that school. While 76 percent of the students that applied through the selection round based on house-to-school distance were enrolled in their top school preference (93 percent in top three school preferences), only 23 percent were enrolled in their closest school (66 percent in one of the three closest schools).&lt;/p&gt;
 &lt;p&gt;To identify which schools the students would have gotten into had they applied to their closest school as their first school preference, we simulate the student allocation following the City’s guidance on admission according to proximity. We allocate students who are enrolled in the public schools through the selection round based on house-to-school proximity by assuming that their school preferences follow the distance from their house to each school. Our simulation allocates 81 percent of the students to their closest school (91 percent to one of their three closest schools). All students apply to their closest school in our simulation, but students who live even closer might have already filled the seats of that schools. Therefore, not every student is allocated to their closest school.&lt;/p&gt;
@@ -127,7 +127,7 @@ Note: Table includes schools that still took the exam on paper in 2019: 4,861 sc
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/SimResultStud_Perf.png&#34; alt=&#34;Simulated Preferences&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.github.io/SimResultStud_Perf.png&#34; alt=&#34;Simulated Preferences&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;At the school level, the zoning system resulted in more clustering in terms of test scores than we would expect if students were allocated by proximity. The bar chart below shows the difference in the standardized Grade 6 exam score in each public school between the actual enrolled students and the simulated students, and the 95 percent confidence interval. The student composition would have been similar if the students who live closest to the schools applied to and enrolled in the respective schools. However, students enrolled in the top two schools had a 0.8 and 0.9 standard deviation higher average Grade 6 exam score than the closest students. At the same time, students enrolled in schools with lower ranks generally had a lower average Grade 6 exam score than we would expect. Hence, despite the potential of the policy to achieve an equitable student allocation, high performing students still sorted into the best public schools, whereas the low performing students sorted into public schools with a lower rank.&lt;/p&gt;
@@ -149,7 +149,7 @@ Note: Table includes schools that still took the exam on paper in 2019: 4,861 sc
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/differencebyschool.png&#34; alt=&#34;Difference by School&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.github.io/differencebyschool.png&#34; alt=&#34;Difference by School&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Note: The bars do not add up to zero, because the seat capacity of the schools varies. The schools that rank first, second and ninth have 654 seats in total and the schools that rank twelfth, thirteenth, fourteenth and fifteenth have 663 seats. The mean difference weighted by the number of seats is zero.&lt;/p&gt;
@@ -173,7 +173,7 @@ Note: The bars do not add up to zero, because the seat capacity of the schools v
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/StudPrefProf_Perf.png&#34; alt=&#34;Preference by UASDA&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.github.io/StudPrefProf_Perf.png&#34; alt=&#34;Preference by UASDA&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;We hypothesise that students with different performance on the Grade 6 exam had different school preferences because students sorted into schools. Students seemed to select schools with students that were academically and economically similar to them. Our qualitative work found that parents of high-performing children believed that the school culture and who their children associate with will shape their children’s academic achievement.&lt;/p&gt;
@@ -184,9 +184,9 @@ Note: The bars do not add up to zero, because the seat capacity of the schools v
     
     <item>
       <title>How Indonesia Attempts to Address Inequity in Access to Quality Education: The Case of Junior Secondary Schools in Yogyakarta</title>
-      <link>https://emilieberkhout.com/post/zoningblog1/</link>
+      <link>https://emilieberkhout.github.io/post/zoningblog1/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://emilieberkhout.com/post/zoningblog1/</guid>
+      <guid>https://emilieberkhout.github.io/post/zoningblog1/</guid>
       <description>&lt;p&gt;Basic education in Indonesia is compulsory and includes six years of primary school (Grade 1-6) and 3 years of junior secondary school (Grade 7-9). In the past decades, Indonesia has achieved huge progress in improving access to basic education. As of 2019, &lt;a href=&#34;https://www.bps.go.id/linkTableDinamis/view/id/1052&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;net enrolment rates were 98 percent at the primary level and 79 percent at the junior secondary level&lt;/a&gt;. This achievement can be largely attributed to &lt;a href=&#34;https://www.lowyinstitute.org/publications/beyond-access-making-indonesia-s-education-system-work&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;government efforts to provide free education in public schools&lt;/a&gt;. Nevertheless, Indonesia still faces the challenge of improving equity in access to quality education, specifically at the junior secondary school level.&lt;/p&gt;
 &lt;h2 id=&#34;the-school-admission-system-results-in-inequitable-access-to-free-quality-public-junior-secondary-schools&#34;&gt;The school admission system results in inequitable access to free quality public junior secondary schools&lt;/h2&gt;
 &lt;p&gt;In Indonesia, public junior secondary schools generally perform better than private schools. Due to &lt;a href=&#34;https://www.rand.org/pubs/monographs/MG137.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;better resources, more well-trained teachers&lt;/a&gt;, and the &lt;a href=&#34;https://documents.worldbank.org/en/publication/documents-reports/documentdetail/558971468752104023/indonesia-education-in-indonesia-from-crisis-to-recovery&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;selection of better performing students&lt;/a&gt;, public junior secondary school graduates &lt;a href=&#34;http://jhr.uwpress.org/content/XLI/3/529.full.pdf&amp;#43;html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;score higher on the Grade 9 national exam&lt;/a&gt; than their privately schooled peers. However, the free quality public junior secondary schools only serve &lt;a href=&#34;https://referensi.data.kemdikbud.go.id/pd_index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;about 70 percent of students nationally&lt;/a&gt;. In the past, admission to public junior secondary schools was based on student performance on the Grade 6 exam, set by the province and administered in all public and private primary schools. Students who were not accepted to public school had to attend private school (although private school fees were partially subsidised by the government in several regions). Under this system,  students with a high Grade 6 exam score, referred to as high-performing students in this blog, were admitted to the public schools. These students were more likely to come from wealthy families. Meanwhile, the students with a low Grade 6 exam score (or low-performing students), many of whom came from poor families, generally had to pay to attend low-quality private schools. While high-quality private schools do exist, their fees are high making them unaffordable for poor students. As a result, the previous admission system led to inequity in access to quality education, putting poor and low-performing students at a particular disadvantage.&lt;/p&gt;
@@ -214,7 +214,7 @@ Note: The bars do not add up to zero, because the seat capacity of the schools v
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/zoningtracks.png&#34; alt=&#34;Zoning Tracks&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.github.io/zoningtracks.png&#34; alt=&#34;Zoning Tracks&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Students applied for public junior secondary schools online. In 2018, students chose the admission selection criterion category that applied to them and listed the 16 public schools in the order of their preference. They could choose to list less than 16 public schools on their preference list. If they chose to list only three schools, for instance, they would only be considered for these three schools. The selection process aimed to allocate the students efficiently by using the &lt;a href=&#34;https://link.springer.com/article/10.1007/s00182-008-0117-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;deferred acceptance mechanism&lt;/a&gt;.&lt;/p&gt;
@@ -244,7 +244,7 @@ Note: The bars do not add up to zero, because the seat capacity of the schools v
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/Cumulative_Percentiles.png&#34; alt=&#34;Cumulative Enrolment&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.github.io/Cumulative_Percentiles.png&#34; alt=&#34;Cumulative Enrolment&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Access to public schools mainly improved for the 40 percent lowest scoring students on the Grade 6 exam, as shown by the next figure. Only 29 percent of students in the bottom 40 percent enrolled in public school before the zoning policy, while 66 percent enrolled after implementation of the zoning policy. This means that the probability of enrolling in a public school more than doubled for this group of students. For students in the lowest decile of the Grade 6 exam score, the probability of enrolling in a public school was as much as 8 times higher due to the zoning policy. It might be surprising that there were students with Grade 6 exam scores among the bottom deciles that enrolled in the public schools prior the zoning policy, despite the selection on exam scores. These students applied to the admission selection criteria specifically for poor families (as explained in the first table).&lt;/p&gt;
@@ -267,7 +267,7 @@ Note: The bars do not add up to zero, because the seat capacity of the schools v
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.com/FractionPublicUASDA.png&#34; alt=&#34;Enrolment by UASDA&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://emilieberkhout.github.io/FractionPublicUASDA.png&#34; alt=&#34;Enrolment by UASDA&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Despite the success of the zoning policy in improving access to public schools in general, &lt;a href=&#34;https://riseprogramme.org/blog/why-low-performing-poor-students-yogyakarta&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;our second blog&lt;/a&gt; reveals that the poor and low performing students still did not go to the best quality public schools that they could attend. The second blog further explores the reasons that underlie such phenomena.&lt;/p&gt;

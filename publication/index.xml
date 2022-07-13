@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Emilie Berkhout</title>
-    <link>https://emilieberkhout.com/publication/</link>
-      <atom:link href="https://emilieberkhout.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://emilieberkhout.github.io/publication/</link>
+      <atom:link href="https://emilieberkhout.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://emilieberkhout.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://emilieberkhout.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://emilieberkhout.com/publication/</link>
+      <link>https://emilieberkhout.github.io/publication/</link>
     </image>
     
     <item>
       <title>Do parents hold bad schools accountable with their feet? Evidence from a quality revealing intervention in Indonesia</title>
-      <link>https://emilieberkhout.com/publication/schoolchoice/</link>
+      <link>https://emilieberkhout.github.io/publication/schoolchoice/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://emilieberkhout.com/publication/schoolchoice/</guid>
+      <guid>https://emilieberkhout.github.io/publication/schoolchoice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empirical evidence for corruption&#39;s self-reinforcing nature from cheating prevention on exams</title>
-      <link>https://emilieberkhout.com/publication/corruption/</link>
+      <link>https://emilieberkhout.github.io/publication/corruption/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://emilieberkhout.com/publication/corruption/</guid>
+      <guid>https://emilieberkhout.github.io/publication/corruption/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selecting Teachers in Indonesia: Predicting Teacher Performance using Pre-Employment Information</title>
-      <link>https://emilieberkhout.com/publication/selection/</link>
+      <link>https://emilieberkhout.github.io/publication/selection/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://emilieberkhout.com/publication/selection/</guid>
+      <guid>https://emilieberkhout.github.io/publication/selection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Who Benefits and Loses from Large Changes to Student Composition? Assessing Impacts of Lowering School Admissions Standards in Indonesia</title>
-      <link>https://emilieberkhout.com/publication/example1/</link>
+      <link>https://emilieberkhout.github.io/publication/example1/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://emilieberkhout.com/publication/example1/</guid>
+      <guid>https://emilieberkhout.github.io/publication/example1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schooling progress, learning reversal: Indonesia&#39;s learning profiles between 2000 and 2014</title>
-      <link>https://emilieberkhout.com/publication/example/</link>
+      <link>https://emilieberkhout.github.io/publication/example/</link>
       <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://emilieberkhout.com/publication/example/</guid>
+      <guid>https://emilieberkhout.github.io/publication/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Cheating to Learning? An Evaluation of Fraud Prevention on National Exams in Indonesia</title>
-      <link>https://emilieberkhout.com/publication/cheating/</link>
+      <link>https://emilieberkhout.github.io/publication/cheating/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://emilieberkhout.com/publication/cheating/</guid>
+      <guid>https://emilieberkhout.github.io/publication/cheating/</guid>
       <description></description>
     </item>
     
