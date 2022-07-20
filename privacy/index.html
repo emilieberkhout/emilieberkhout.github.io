@@ -65,7 +65,7 @@
   
     
   
-  <meta name="description" content="Add your privacy policy here and set draft: false to publish it. Otherwise, delete this file if you don&rsquo;t need it." />
+  <meta name="description" content="My website hosts cookies to understand the audience of the website. The cookies are from Google Analytics." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://emilieberkhout.github.io/privacy/" />
@@ -290,7 +290,7 @@
   }
 
   gtag('js', new Date());
-  gtag('config', 'G-WLGP38DBEX', {});
+  gtag('config', 'G-WLGP38DBEX', { 'anonymize_ip': true });
   gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
 
   
@@ -350,7 +350,7 @@
   <meta property="og:site_name" content="Emilie Berkhout" />
   <meta property="og:url" content="https://emilieberkhout.github.io/privacy/" />
   <meta property="og:title" content="Privacy Policy | Emilie Berkhout" />
-  <meta property="og:description" content="Add your privacy policy here and set draft: false to publish it. Otherwise, delete this file if you don&rsquo;t need it." /><meta property="og:image" content="https://emilieberkhout.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:description" content="My website hosts cookies to understand the audience of the website. The cookies are from Google Analytics." /><meta property="og:image" content="https://emilieberkhout.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://emilieberkhout.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -369,6 +369,36 @@
   
 
   
+  
+  
+  
+  
+    <script src="https://cdn.jsdelivr.net/gh/osano/cookieconsent@3.1.1/build/cookieconsent.min.js" integrity="sha512-yXXqOFjdjHNH1GND+1EO0jbvvebABpzGKD66djnUfiKlYME5HGMUJHoCaeE4D5PTG2YsSJf6dwqyUUvQvS0vaA==" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/osano/cookieconsent@3.1.1/build/cookieconsent.min.css" integrity="sha512-LQ97camar/lOliT/MqjcQs5kWgy6Qz/cCRzzRzUCfv0fotsCTC9ZHXaPQmJV8Xu/PVALfJZ7BDezl5lW3/qBxg==" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#F16929",
+          "text": "rgb(255, 255, 255)"
+        },
+        "button": {
+          "background": "rgb(255, 255, 255)",
+          "text": "#F16929"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "/privacy/"
+      }
+    })});
+  </script>
+
 
   
 
@@ -726,7 +756,7 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>Add your privacy policy here and set <code>draft: false</code> to publish it. Otherwise, delete this file if you don&rsquo;t need it.</p>
+      <p>My website hosts cookies to understand the audience of the website. The cookies are from Google Analytics.</p>
 
     </div>
 
@@ -776,9 +806,6 @@
     
       <a href="/privacy/">Privacy Policy</a>
     
-    
-       &middot; 
-      <a href="/terms/">Terms</a>
     
   </p>
   
