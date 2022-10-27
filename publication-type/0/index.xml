@@ -5,12 +5,20 @@
     <link>https://emilieberkhout.github.io/publication-type/0/</link>
       <atom:link href="https://emilieberkhout.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://emilieberkhout.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>0</title>
       <link>https://emilieberkhout.github.io/publication-type/0/</link>
     </image>
+    
+    <item>
+      <title>Empirical evidence for corruption&#39;s self-reinforcing nature using cheating prevention on exams</title>
+      <link>https://emilieberkhout.github.io/publication/corruption/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://emilieberkhout.github.io/publication/corruption/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Do parents hold bad schools accountable with their feet? Evidence from a quality revealing intervention in Indonesia</title>
@@ -19,14 +27,6 @@
       <guid>https://emilieberkhout.github.io/publication/schoolchoice/</guid>
       <description>&lt;p&gt;The data used in this project were taken from the Telkom SIAP PPDB Online Portal. To limit the risk of privacy breach and personal data accessibility of the students, the data were pseudonymized and encrypted. Access to the data on network storage was restricted and raw data were deleted after use.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Empirical evidence for corruption&#39;s self-reinforcing nature using cheating prevention on exams</title>
-      <link>https://emilieberkhout.github.io/publication/corruption/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://emilieberkhout.github.io/publication/corruption/</guid>
-      <description></description>
     </item>
     
   </channel>
